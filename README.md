@@ -18,6 +18,9 @@ end to end.
 
 ![Topology](images/02_Network_Topology_Banner.png)
 
+> The diagrams label the routers **XRV1–XRV5**; the configs and text below use
+> **R1–R5**. Same five devices, same roles.
+
 ```
      Area 1                 Area 0                      Area 2
   ┌───────────┐   ┌──────────────────────────┐   ┌───────────────┐
