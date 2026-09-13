@@ -315,4 +315,5 @@ images/      Diagrams and reference cards
 Built and verified on Cisco IOS-XRv. Any IOS-XR platform supporting OSPF Segment Routing
 should behave identically; the interface names are the only thing likely to change.
 
-All configurations, documentation and diagrams in this repository are original work.
+All configurations, documentation and diagrams in this repository are original work,
+released under the [MIT License](LICENSE).
